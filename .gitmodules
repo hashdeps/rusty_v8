@@ -1,7 +1,6 @@
 [submodule "v8"]
 	path = v8
-	url = https://github.com/denoland/v8.git
-	branch = 10.1-lkgr-denoland
+	url = https://github.com/hashdeps/v8
 [submodule "build"]
 	path = build
 	url = https://github.com/denoland/chromium_build.git
